@@ -36,15 +36,18 @@ export const Page: React.FC = (props) => {
       <main>
       <p><span>Wallet Balance</span> : <span>0.00</span></p>
       <p><span>Name</span> : <span>Olumuyiwa Aro</span></p>
+      <h2>Xpress Report</h2>
       <table>
           <thead>
               <th>S/N</th>
+              <th>Merchant</th>
               <th>TransactionType</th>
               <th>Amount</th>
           </thead>
           <tbody>
                 <tr>
                     <td>1</td>
+                    <td>XpressPay</td>
                     <td>Withdrawal</td>
                     <td>0.00</td>
                 </tr>

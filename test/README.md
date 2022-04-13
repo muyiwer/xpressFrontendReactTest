@@ -1,6 +1,6 @@
 # Getting Started with XpressPay Test
 
-You are to style and make the application responsive
+You are to style and make the application responsive using functional component, hooks or redux
 
 ## Problems
 
